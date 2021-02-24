@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HW1_194_Grebenschikov_Maxim:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HW1_194_Grebenschikov_Maxim_jar</output-path>
+    <root id="archive" name="monopoly.jar">
+      <element id="module-output" name="monopoly" />
+    </root>
+  </artifact>
+</component>
